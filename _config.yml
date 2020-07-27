@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "당신 뭐가 그리 급하신가 좀만 쉬다 가시게"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GUAJEGUICHAN"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Holy One"
+  avatar           : "/assets/images/candlelight.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "혈액형 B형 XY염색체 "
+  location         : "용인"
+  email            : "qkr135qkr@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
